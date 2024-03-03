@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+h2{
+    text-align: center;
+    color: rgb(3, 199, 199);
+    margin-top: 10px;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+#button{
+    margin: 5px;
+    padding: 5px;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+}
+
+#todo{
+    width: 250px;
+    height: 30px;
+    border: 1px solid;
+    border-radius: 5px;
+}
